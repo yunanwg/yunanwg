@@ -1,0 +1,44 @@
+#:schema ../metadata.toml.schema.json
+
+header_quote = "Makes things. Rides far. Cares about the planet."
+cv_footer = "Curriculum vitae"
+letter_footer = "Cover letter"
+
+[layout]
+    awesome_color = "#A0674B"
+    before_section_skip = "4pt"
+    before_entry_skip = "3pt"
+    before_entry_description_skip = "2pt"
+    paper_size = "a4"
+    date_width = "3.2cm"
+
+    [layout.fonts]
+        regular_fonts = ["Source Sans 3"]
+        header_font = "Roboto"
+
+    [layout.header]
+        header_align = "left"
+        display_profile_photo = false
+        profile_photo_radius = "50%"
+        info_font_size = "10pt"
+
+    [layout.entry]
+        display_entry_society_first = true
+        display_logo = false
+
+    [layout.section]
+        title_highlight = "first-letters"
+        title_highlight_letters = 3
+
+    [layout.footer]
+        display_page_counter = false
+        display_footer = false
+
+[personal]
+    first_name = "Yunan"
+    last_name = "Wang"
+
+    [personal.info]
+        github = "yunanwg"
+        linkedin = "yunanwg"
+        location = "Paris, France"
