@@ -42,7 +42,8 @@ BUGS
        after his earphones died. Also not a bug.
 ```
 
-<!-- The CV above is typeset from cv/ by .github/workflows/cv.yml — the star
-     count refreshes itself weekly. A résumé that maintains itself. -->
+<!-- Generated: the CV above is typeset from a private fact base and pushed
+     here by CI — the star count refreshes itself weekly. A résumé that
+     maintains itself. Don't edit this repo by hand; changes are overwritten. -->
 <!-- blog(7) slot: wire up gautamkrishnar/blog-post-workflow here once the
      blog is back online. -->
